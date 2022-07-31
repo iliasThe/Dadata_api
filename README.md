@@ -1,4 +1,6 @@
 # Dadata_api
+# Для настройки рабочего окружения установите библиотеку из файла requirements.txt c помощью pip install -r requirements.txt/ необходимо скачать БД для запроса к базе данных на движке sqlite3 
+
 Search for location via dadata api
 Тестовое задание
 
@@ -48,4 +50,3 @@ Search for location via dadata api
 
 Завершение работы ПО
 В интерфейсе ПО должен быть предусмотрен способ выйти из программы не нажимая кнопку закрытия консоли.
-# Для настройки рабочего окружения установите библиотеку из файла requirements.txt c помощью pip install -r requirements.txt 
