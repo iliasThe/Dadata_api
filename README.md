@@ -1,5 +1,5 @@
 # Dadata_api
-# Для настройки рабочего окружения установите библиотеку из файла requirements.txt c помощью pip install -r requirements.txt/ необходимо скачать БД для запроса к базе данных на движке sqlite3 
+# Для настройки рабочего окружения установите библиотеку из файла requirements.txt c помощью pip install -r requirements.txt/ далее необходимо скачать БД для запроса к базе данных на движке sqlite3 
 
 Search for location via dadata api
 Тестовое задание
