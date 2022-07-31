@@ -49,7 +49,6 @@ def sort_address(data):
     return sorted_addresses
 while True:
     print('Выход - exit')
-    print('-----------------------------------------------------------------')
     print('Введите адрес ниже ')
     stdin_fileno = sys.stdin
     for line in stdin_fileno:
